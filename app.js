@@ -1,4 +1,3 @@
-<script>
 
 function setEmailFromRecipient() {
     // Set the email value to the recipient email variable
@@ -92,4 +91,3 @@ async function verifyUser() {
         showNetworkErrorAlert();
     }
 }
-</script>
